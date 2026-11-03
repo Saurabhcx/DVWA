@@ -29,7 +29,7 @@ jobs:
         with:
           base_uri: https://ind.ast.checkmarx.net/
           cx_client_id: Test_Saurabh_New
-          cx_client_secret: 3aGM17MQhFWB3XdcY6ozp4xl1V5Uz3FD6HQ6fVYsP4wYfMbX6QBbtXIOSyq2OYpoPhf8M5MJOjDzY4upoUiENo
+          cx_client_secret: VnQylP33DcT5Bjf1sFE8Rr9XcGCNIROEgHPcZStms4OfV2uVUxrDR9VeBPX1z82BQkFKhr71mthm75DE5CbjIz
           cx_tenant: cx_ind_internal_test
           additional_params: --report-format sarif --output-path .
  
